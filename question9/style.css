@@ -1,0 +1,8 @@
+tr,td{
+   padding: 10px; 
+}
+table{
+    margin-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+}
